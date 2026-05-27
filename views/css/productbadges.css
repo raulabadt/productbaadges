@@ -1,0 +1,4 @@
+.product-badges{ position: absolute; top: 0; left: 0; z-index: 20; }
+.product-badge{ display: inline-block; padding: 4px 8px; font-size: 12px; border-radius: 3px; margin: 4px; }
+.product-badge.badge-right{ float: right; }
+.product-badge.badge-left{ float: left; }
