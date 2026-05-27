@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+  <name>productbadges</name>
+  <displayName>Product Badges</displayName>
+  <description>Manage reusable visual badges for products</description>
+  <version>1.0.0</version>
+  <author>Candidate</author>
+  <tab>front_office_features</tab>
+</module>
